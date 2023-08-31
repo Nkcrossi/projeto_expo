@@ -1,0 +1,1 @@
+Criar um site (pode ser um blog) explicar os conceitos e a diferença entre usar ou não api (arquitetura orientada a serviços) e single-application
